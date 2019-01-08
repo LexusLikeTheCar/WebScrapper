@@ -1,0 +1,68 @@
+Log:
+Site visited at 2018-10-16 14:35:05 -0400
+Site visited at 2018-10-16 14:50:00 -0400
+/Users/luhlir/Documents/scrape/dogs.rb:34:in `block in <main>': undefined method `text' for nil:NilClass (NoMethodError)
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:204:in `block in each'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `upto'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `each'
+	from /Users/luhlir/Documents/scrape/dogs.rb:30:in `<main>'
+/Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:906:in `rescue in block in connect': Failed to open TCP connection to dogadoptions.franklincountyohio.gov:443 (Network is unreachable - connect(2) for "dogadoptions.franklincountyohio.gov" port 443) (Errno::ENETUNREACH)
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:903:in `block in connect'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/timeout.rb:93:in `block in timeout'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/timeout.rb:103:in `timeout'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:902:in `connect'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:887:in `do_start'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:882:in `start'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/net-http-persistent-3.0.0/lib/net/http/persistent.rb:692:in `start'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/net-http-persistent-3.0.0/lib/net/http/persistent.rb:896:in `reset'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/net-http-persistent-3.0.0/lib/net/http/persistent.rb:624:in `connection_for'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/net-http-persistent-3.0.0/lib/net/http/persistent.rb:927:in `request'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/mechanize-2.7.6/lib/mechanize/http/agent.rb:280:in `fetch'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/mechanize-2.7.6/lib/mechanize.rb:464:in `get'
+	from /Users/luhlir/Documents/scrape/dogs.rb:32:in `block in <main>'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:204:in `block in each'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `upto'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `each'
+	from /Users/luhlir/Documents/scrape/dogs.rb:30:in `<main>'
+Site visited at 2018-10-18 10:04:10 -0400
+Site visited at 2018-10-21 21:03:31 -0400
+Site visited at 2018-10-22 12:03:34 -0400
+/Users/luhlir/Documents/scrape/dogs.rb:35:in `block in <main>': undefined method `text' for nil:NilClass (NoMethodError)
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:204:in `block in each'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `upto'
+	from /Users/luhlir/.rvm/gems/ruby-2.4.2/gems/nokogiri-1.8.5/lib/nokogiri/xml/node_set.rb:203:in `each'
+	from /Users/luhlir/Documents/scrape/dogs.rb:31:in `<main>'
+Site visited at 2018-10-24 21:05:17 -0400
+Site visited at 2018-10-26 12:03:36 -0400
+Site visited at 2018-10-26 15:03:53 -0400
+Site visited at 2018-10-28 15:03:54 -0400
+Site visited at 2018-10-28 21:03:40 -0400
+Site visited at 2018-10-30 12:05:09 -0400
+Site visited at 2018-10-31 12:03:47 -0400
+Site visited at 2018-10-31 21:04:03 -0400
+Site visited at 2018-11-02 12:04:20 -0400
+Site visited at 2018-11-04 21:03:45 -0500
+Site visited at 2018-11-05 15:03:49 -0500
+/Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:906:in `rescue in block in connect': Failed to open TCP connection to dogadoptions.franklincountyohio.gov:443 (getaddrinfo: nodename nor servname provided, or not known) (SocketError)
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:903:in `block in connect'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/timeout.rb:93:in `block in timeout'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/timeout.rb:103:in `timeout'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:902:in `connect'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:887:in `do_start'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/net/http.rb:876:in `start'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:323:in `open_http'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:741:in `buffer_open'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:212:in `block in open_loop'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:210:in `catch'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:210:in `open_loop'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:151:in `open_uri'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:721:in `open'
+	from /Users/luhlir/.rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/open-uri.rb:35:in `open'
+	from /Users/luhlir/Documents/scrape/dogs.rb:13:in `<main>'
+Site visited at 2018-11-06 15:04:08 -0500
+Site visited at 2018-11-07 12:03:52 -0500
+Site visited at 2018-11-07 15:04:21 -0500
+Site visited at 2018-11-21 09:05:10 -0500
+Site visited at 2018-11-21 09:15:21 -0500
+Site visited at 2018-11-30 09:03:56 -0500
+Site visited at 2018-11-30 09:13:40 -0500
