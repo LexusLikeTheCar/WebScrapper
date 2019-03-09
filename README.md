@@ -4,4 +4,5 @@ This is a project for a web scraper designed to scrape a specific dog adoption w
 # How to run
 ruby scrape.rb
 
-### Additional note: The project will create and/or update the cvs file DogInfo and ouput the log into to a log file. Those do not need to already exist but they can if you want
+### Additional note: 
+The project will create and/or update the cvs file DogInfo and ouput the log into to a log file. Those do not need to already exist but they can if you want
