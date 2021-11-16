@@ -4,7 +4,7 @@ GEM
     chronic (0.10.2)
     connection_pool (2.2.2)
     csv (3.0.0)
-    date (1.0.0)
+    date (2.0.1)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
     http-cookie (1.0.3)
